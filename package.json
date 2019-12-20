@@ -1,0 +1,50 @@
+{
+  "_from": "ringlink",
+  "_id": "ringlink@1.0.3",
+  "_inBundle": false,
+  "_integrity": "sha512-ZuXOYiCTxcJeio3+aBIwOkSz2llK8woEYKi4HSizOx2E/N8Egp6/wLwJGq6IP2XK0B/3rA2kcXhfs9zer7ljtg==",
+  "_location": "/ringlink",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "ringlink",
+    "name": "ringlink",
+    "escapedName": "ringlink",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/ringlink/-/ringlink-1.0.3.tgz",
+  "_shasum": "4c692445dd59461bad75cd665b1f9df1c28f029e",
+  "_spec": "ringlink",
+  "_where": "F:\\webstorm\\test",
+  "author": {
+    "name": "gu4217@sina.com"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "canvas draw ringlink",
+  "keywords": [
+    "ringlink",
+    "circle",
+    "canvas",
+    "rough",
+    "sawtooth"
+  ],
+  "license": "ISC",
+  "main": "src/index.js",
+  "name": "ringlink",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "example": "http-server"
+  },
+  "version": "1.0.3",
+  "devDependencies": {
+    "http-server": "^0.12.0"
+  }
+}
