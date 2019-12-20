@@ -3,7 +3,7 @@
 ```
 引入:
 es6: import ringlink from 'ringlink'
-script: https://github.com/newDayStudy/ringlink/releases/index.js
+script: http://unpkg.com/ringlink/release/index.js
 使用：
 ringlink({
     dom: 'canvas' //id名
