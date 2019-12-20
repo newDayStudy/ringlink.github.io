@@ -1,7 +1,7 @@
 # 使用2
 
 ```
-<script src="https://github.com/newDayStudy/ringlink/releases/index.js"></script>
+<script src="http://unpkg.com/ringlink/release/index.js"></script>
 ringlink({
     dom: 'canvas' //id名
     w: 200, //canvas宽
